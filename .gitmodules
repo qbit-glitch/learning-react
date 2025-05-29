@@ -1,3 +1,6 @@
 [submodule "section-3_React_Essentials"]
 	path = section-3_React_Essentials
 	url = https://github.com/qbit-glitch/section-3_React_Essentials.git
+[submodule "section-4_React_Essentials_Deep_DIve"]
+	path = section-4_React_Essentials_Deep_DIve
+	url = https://github.com/qbit-glitch/section-4_React_Essentials_Deep_Dive.git
